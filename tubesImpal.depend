@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505587260 source:c:\users\hanif salafi\desktop\tubesimpal\tubesimpal\anggota.cpp
+	"anggota.h"
+
+1505587248 c:\users\hanif salafi\desktop\tubesimpal\tubesimpal\anggota.h
+	<iostream>
+	<stdlib.h>
+
+1505591799 source:c:\users\hanif salafi\desktop\tubesimpal\tubesimpal\main.cpp
+	<iostream>
+	"anggota.h"
+	<stdlib.h>
+
